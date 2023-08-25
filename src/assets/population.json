@@ -1,0 +1,122 @@
+[
+  {
+    "Country": "India",
+    "Population": "1,428,627,663",
+    "NetChange": "11,454,490",
+    "WorldShare": "17.76 %"
+  },
+  {
+    "Country": "China",
+    "Population": "1,425,671,352",
+    "NetChange": "-215,985",
+    "WorldShare": "17.72 %"
+  },
+  {
+    "Country": "United States",
+    "Population": "339,996,563",
+    "NetChange": "1,706,706",
+    "WorldShare": "4.23 %"
+  },
+  {
+    "Country": "Indonesia",
+    "Population": "277,534,122",
+    "NetChange": "2,032,783",
+    "WorldShare": "3.45 %"
+  },
+  {
+    "Country": "Pakistan",
+    "Population": "240,485,658",
+    "NetChange": "4,660,796",
+    "WorldShare": "2.99 %"
+  },
+  {
+    "Country": "Nigeria",
+    "Population": "223,804,632",
+    "NetChange": "5,263,420",
+    "WorldShare": "2.78 %"
+  },
+  {
+    "Country": "Brazil",
+    "Population": "216,422,446",
+    "NetChange": "1,108,948",
+    "WorldShare": "2.69 %"
+  },
+  {
+    "Country": "Bangladesh",
+    "Population": "172,954,319",
+    "NetChange": "1,767,947",
+    "WorldShare": "2.15 %"
+  },
+  {
+    "Country": "Russia",
+    "Population": "144,444,359",
+    "NetChange": "-268,955",
+    "WorldShare": "1.80 %"
+  },
+  {
+    "Country": "Mexico",
+    "Population": "128,455,567",
+    "NetChange": "951,442",
+    "WorldShare": "1.60 %"
+  },
+  {
+    "Country": "Ethiopia",
+    "Population": "126,527,060",
+    "NetChange": "3,147,136",
+    "WorldShare": "1.57 %"
+  },
+  {
+    "Country": "Japan",
+    "Population": "123,294,513",
+    "NetChange": "-657,179",
+    "WorldShare": "1.53 %"
+  },
+  {
+    "Country": "Philippines",
+    "Population": "117,337,368",
+    "NetChange": "1,778,359",
+    "WorldShare": "1.46 %"
+  },
+  {
+    "Country": "Egypt",
+    "Population": "112,716,598",
+    "NetChange": "1,726,495",
+    "WorldShare": "1.40 %"
+  },
+  {
+    "Country": "DR Congo",
+    "Population": "102,262,808",
+    "NetChange": "3,252,596",
+    "WorldShare": "1.27 %"
+  },
+  {
+    "Country": "Vietnam",
+    "Population": "98,858,950",
+    "NetChange": "672,094",
+    "WorldShare": "1.23 %"
+  },
+  {
+    "Country": "Iran",
+    "Population": "89,172,767",
+    "NetChange": "622,197",
+    "WorldShare": "1.11 %"
+  },
+  {
+    "Country": "Turkey",
+    "Population": "85,816,199",
+    "NetChange": "474,958",
+    "WorldShare": "1.07 %"
+  },
+  {
+    "Country": "Germany",
+    "Population": "83,294,633",
+    "NetChange": "-75,210",
+    "WorldShare": "1.04 %"
+  },
+  {
+    "Country": "Thailand",
+    "Population": "71,801,279",
+    "NetChange": "104,249",
+    "WorldShare": "0.89 %"
+  }
+]
